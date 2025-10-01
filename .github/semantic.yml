@@ -1,0 +1,17 @@
+titleAndCommits: true
+allowMergeCommits: true
+allowRevertCommits: true
+
+types:
+  - "docs"
+  - "feat"
+  - "fix"
+  - "refactor"
+  - "revert"
+  - "version"
+
+scopes:
+  - "event"
+  - "errorstack"
+  - "rest"
+  - "temporal"
